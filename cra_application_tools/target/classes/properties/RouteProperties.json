@@ -1,0 +1,17 @@
+[{
+        "title": "Telkom - CRA - Route Properties",
+        "properties": [{
+                "name": "record_id",
+                "label": "Record ID",
+                "type": "textfield",
+                "value": "#process.recordId#",
+                "required": "True"
+            },{
+                "name": "route_id",
+                "label": "Route ID",
+                "type": "textfield",
+                "value": "route",
+                "required": "True"
+            }
+        ]
+    }]
